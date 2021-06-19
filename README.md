@@ -31,8 +31,8 @@ make
 YAY! ArchLinux FTW \o/
 
 - :white_check_mark: ArchLinux https://archlinux.org/releng/netboot/
-- :x: netboot.xyz https://netboot.xyz/downloads/
-- :x: Ubuntu Netboot http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/netboot.tar.gz
+- :white_check_mark: netboot.xyz https://boot.netboot.xyz/ipxe/netboot.xyz.efi
+- :x: Ubuntu Netboot http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/netboot.tar.gz (would need an UEFI image)
 
 ### `dnsmasq` config
 
